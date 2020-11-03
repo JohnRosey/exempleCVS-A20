@@ -1,0 +1,2 @@
+fichCVSEXEV2: V2
+	gcc -o fichCVSEXEV2 V2
